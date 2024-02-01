@@ -1,4 +1,4 @@
-# C++ Algorithmic Trading System
+# C++ Algorithmic Trading System (in progress)
 
 ## Overview
 
